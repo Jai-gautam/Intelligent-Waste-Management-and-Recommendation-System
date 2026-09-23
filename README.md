@@ -1,22 +1,13 @@
 # Intelligent waste segregation system
 This project demonstrates waste detection using a YOLOv8 (You Only Look Once) object detection model. It identifies recyclable, non-recyclable, and hazardous waste items in a webcam stream.
 
-Our datasets used to train:
-https://universe.roboflow.com/ai-project-i3wje/waste-detection-vqkjo/model/3
-
-Colab:
-https://colab.research.google.com/drive/1dHv5QUuz2NkkgzeKBoO4DLAhLg9mOrzv?usp=sharing
-
-Live:
-https://intelligent-waste-segregation-system.streamlit.app
 
 
 ## Setup
 
 **Clone the Repository:**
 ```bash
-git clone https://github.com/boss4848/waste-detection.git
-cd waste-detection
+
 ```
 **Install Dependencies:**
 ```bash
