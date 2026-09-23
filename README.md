@@ -1,4 +1,4 @@
-# Intelligent waste segregation system
+# Intelligent Waste Management and Recommendation System
 This project demonstrates waste detection using a YOLOv8 (You Only Look Once) object detection model. It identifies recyclable, non-recyclable, and hazardous waste items in a webcam stream.
 
 
@@ -7,6 +7,7 @@ This project demonstrates waste detection using a YOLOv8 (You Only Look Once) ob
 
 **Clone the Repository:**
 ```bash
+https://github.com/Jai-gautam/Intelligent-Waste-Management-and-Recommendation-System.git
 
 ```
 **Install Dependencies:**
